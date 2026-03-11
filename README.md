@@ -1,2 +1,2 @@
-bash shell video
 
+Gemini api google key 
