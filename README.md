@@ -1,2 +1,1 @@
-
-Gemini api google key 
+predict numbers on linear
